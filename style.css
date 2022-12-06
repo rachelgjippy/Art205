@@ -50,7 +50,7 @@ section nav ul li a {
   transition: 0.1s;
 }
 
-section nav ul li a::after {
+section nav ul li a:after {
   content: '';
   width: 0;
   height: 2px;
