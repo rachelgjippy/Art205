@@ -185,3 +185,12 @@ section .main_btn:hover i {
   margin-right: 30px;
   line-height: 22px;
 }
+
+.footer {
+  background-color: #fac031;
+  color: #fff;
+  text-align: center;
+  height: 50px;
+  margin-top: 300px;
+  padding-top: 15px;
+}
